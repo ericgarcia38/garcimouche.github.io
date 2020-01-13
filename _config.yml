@@ -3,21 +3,21 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Franck Garcia
+title: Senior Java Developper
+email: garcia.franck@gmail.com 
+website: garcimouche.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: franck_garcia
+github_username:  garcimouche
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: chillwildlife
-linkedin_username: jameswgrant
+linkedin_username: franck-garcia-2a602b10
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # stack overflow?
 additional_links:

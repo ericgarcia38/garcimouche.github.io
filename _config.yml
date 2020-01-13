@@ -14,11 +14,16 @@ github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
+# instagram_username: chillwildlife
 linkedin_username: jameswgrant
 # pinterest_username: jekyll
 youtube_username: globalmtb
 # googleplus_username: +jekyll
+# stack overflow?
+additional_links:
+        - url: https://stackoverflow.com/users/756146/franck
+          icon: fa-stack-overflow
+          title: stack overflow
 
 # About Section
 # about_title: About Me

@@ -1,6 +1,7 @@
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
+darkmode: true
 
 # Personal info
 name: Franck Garcia
@@ -36,7 +37,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Java</mark><mark>Jave EE</mark>
 
 # Projects Section
-projects_title: ojects
+# projects_title: ojects
 
 # Experience Section
 # experience_title: Experience

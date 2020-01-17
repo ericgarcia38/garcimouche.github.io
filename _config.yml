@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: garcimouche/garcimouche.github.io
 favicon: images/favicon.ico
 
 # Personal info
@@ -8,6 +8,7 @@ title: Senior Java Developper
 email: garcia.franck@gmail.com 
 website: garcimouche.github.io
 
+darkmode: true
 # Social links
 twitter_username: franck_garcia
 github_username:  garcimouche
@@ -33,7 +34,7 @@ about_content: | # this will include new lines to allow paragraphs
   Improving and learning new skills by following the latest technological trends is one of my constant concern. 
   Over the years, the various mandates I worked on have enabled me to reveal my skills in the realization of innovative quality solutions.
   
-  I am most skilled in: <mark>Java</mark><mark>Jave EE</mark>
+  I am most skilled in: <mark>Java</mark> <mark>Jave EE</mark>
 
 # Projects Section
 # projects_title: ojects
@@ -67,4 +68,3 @@ plugins:
  - jekyll-seo-tag
 
 theme: jekyll-theme-minimal
-darkmode: true

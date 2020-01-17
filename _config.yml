@@ -29,12 +29,14 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am a software developer/architect with an extensive experience of the Java ecosystem. 
+  Improving and learning new skills by following the latest technological trends is one of my constant concern. 
+  Over the years, the various mandates I worked on have enabled me to reveal my skills in the realization of innovative quality solutions.
+  
+  I am most skilled in: <mark>Java</mark><mark>Jave EE</mark>
 
 # Projects Section
-# projects_title: Projects
+projects_title: ojects
 
 # Experience Section
 # experience_title: Experience

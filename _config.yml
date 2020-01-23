@@ -34,13 +34,24 @@ about_content: | # this will include new lines to allow paragraphs
   Improving and learning new skills by following the latest technological trends is one of my constant concern. 
   Over the years, the various mandates I worked on have enabled me to reveal my skills in the realization of innovative quality solutions.
   
-  I am most skilled in: <mark>Java</mark> <mark>Jave EE</mark>
+  I am most skilled in: <mark>Java</mark> <mark>Jave EE</mark> <mark>Angular</mark> <mark>Apache Camel</mark> <mark>Spring</mark> <mark>Hibernate</mark> <mark>Docker</mark>
 
 # Projects Section
 # projects_title: ojects
 
 # Experience Section
-# experience_title: Experience
+experience_title: Experience
+company: FedEx Trade Networks (Montreal)
+job_title: Software Architect
+dates: July 2007 - Present
+description: |
+  * Design and realize applications in an international freight and customs brokerage business context;
+  * Responsible for technology watch, specially in the area of open source software and its potential application to respond to business needs;
+  * Coach the developers team on technical and business issues;
+  * Increase the IT department visibility to others FedEx operating companies through innovative solution (’HS Code Finder’);
+  * Integrates systems with business partners (government, transporters, importers 
+  * Define development standards and ensure their respect through design and code reviews either automatically (’build’) or in person (’Walkthrough’);
+  * Configure development environments by coding infrastructure (Docker, GoCD, Weblogic, Nexus, Maven);
 
 # Education Section
 # educaton_title: Education

@@ -34,6 +34,7 @@ about_content: | # this will include new lines to allow paragraphs
   Improving and learning new skills by following the latest technological trends is one of my constant concern. 
   Over the years, the various mandates I worked on have enabled me to reveal my skills in the realization of innovative quality solutions.
   
+
   I am most skilled in:     <mark>Java</mark> <mark>Jave EE</mark> <mark>Angular</mark> <mark>Apache Camel</mark> <mark>Spring</mark> <mark>Hibernate</mark> <mark>Docker</mark>
 
   Currently looking at:     <mark>Kubernetes</mark> <mark>Service Mesh</mark> <mark>Quarkus</mark>
@@ -52,7 +53,7 @@ education_title: Educations and Specializations
 # More Section
 more_title: Skills
 more_content: | # this will include new lines to allow paragraphs
-  Language: Java Typescript Javascript Scala RPG/ILE Go Lang Ruby Bash HTML S-CSS EDI X12
+  **Language:** <mark>Java</mark> <mark>Typescript</mark> <mark>Javascript</mark> <mark>Scala</mark> <mark>RPG/ILE</mark> <mark>Go Lang</mark> <mark>Ruby</mark> <mark>Bash</mark> <mark>HTML</mark> <mark>S-CSS</mark> <mark>EDI X12</mark>
 
 # Footer
 footer_show_references: true

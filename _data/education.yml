@@ -1,7 +1,8 @@
 - layout: left
   name: École de Technologie Supérieure
   dates: 2018 - 2020
-  description: Diplôme d'Études Supérieures Spécialisées (Post Graduate Degree - Software Engineering)
+  description: | 
+    - Diplôme d'Études Supérieures Spécialisées (Post Graduate Degree - Software Engineering)
 
 - layout: left
   name: Coursera - MOOC
@@ -22,4 +23,5 @@
 - layout: left
   name: Lycée Pablo Neruda, Grenoble, France.
   dates: 1990 - 1992
-  description: Baccalauréat Sciences
+  description: | 
+    - Baccalauréat Sciences

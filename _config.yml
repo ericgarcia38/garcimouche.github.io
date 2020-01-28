@@ -62,9 +62,8 @@ more_content: | # this will include new lines to allow paragraphs
   **System/Tools        :** <mark>Linux</mark> <mark>IBM AS/400</mark> <mark>Docker</mark> <mark>Kubernetes</mark> <mark>GoCD</mark> <mark>Nexus</mark> <mark>SonarQube</mark> <mark>Git</mark> 
 
   **API/Library         :** <mark>Java EE</mark> <mark>JAX/RS</mark> <mark>Spring</mark> <mark>JPA/Hibernate</mark> <mark>Angular</mark> <mark>Arquillian</mark> <mark>Bean Validation</mark> 
-  
-    <mark>Vavr</mark> <mark>Bootstrap</mark> <mark>BIRT</mark> <mark>Drools</mark> <mark>Apache Camel</mark> <mark>CDI</mark> <mark>Guava</mark> <mark>JMS</mark> <mark>JQuery</mark> 
-    <mark>Mutlithreading</mark> <mark>Struts</mark>
+      <mark>Vavr</mark> <mark>Bootstrap</mark> <mark>BIRT</mark> <mark>Drools</mark> <mark>Apache Camel</mark> <mark>CDI</mark> <mark>Guava</mark> <mark>JMS</mark> <mark>JQuery</mark> 
+      <mark>Mutlithreading</mark> <mark>Struts</mark>
 
 # Footer
 footer_show_references: true

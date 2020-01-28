@@ -54,10 +54,15 @@ education_title: Educations and Specializations
 more_title: Skills
 more_content: | # this will include new lines to allow paragraphs
   **Language/Markup     :** <mark>Java</mark> <mark>Typescript</mark> <mark>Javascript</mark> <mark>Scala</mark> <mark>RPG/ILE</mark> <mark>Go Lang</mark> <mark>Ruby</mark> <mark>Bash</mark> <mark>HTML</mark> <mark>S-CSS</mark> <mark>EDI X12</mark>
+
   **Applications Servers:** <mark>JBoss/Wildfly</mark> <mark>Weblogic</mark> <mark>Mule ESB</mark> <mark>ElasticSearch</mark>
+
   **Data/Messaging      :** <mark>DB2/400</mark> <mark>Oracle</mark> <mark>Kafka</mark> <mark>MQ Series</mark> <mark>MongoDB</mark>
-  **System/Tools        :** <mark>Linux</mark> <mark>IBM AS/400</mark> <mark>Docker</mark> <mark>Kubernetes</mark> <mark>GoCD</mark> <mark>Nexus</mark> <mark>SonarQube</mark> <mark>Git</mark>  
+
+  **System/Tools        :** <mark>Linux</mark> <mark>IBM AS/400</mark> <mark>Docker</mark> <mark>Kubernetes</mark> <mark>GoCD</mark> <mark>Nexus</mark> <mark>SonarQube</mark> <mark>Git</mark> 
+
   **API/Library         :** <mark>Java EE</mark> <mark>JAX/RS</mark> <mark>Spring</mark> <mark>JPA/Hibernate</mark> <mark>Angular</mark> <mark>Arquillian</mark> <mark>Bean Validation</mark> 
+  
     <mark>Vavr</mark> <mark>Bootstrap</mark> <mark>BIRT</mark> <mark>Drools</mark> <mark>Apache Camel</mark> <mark>CDI</mark> <mark>Guava</mark> <mark>JMS</mark> <mark>JQuery</mark> 
     <mark>Mutlithreading</mark> <mark>Struts</mark>
 

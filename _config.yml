@@ -34,7 +34,9 @@ about_content: | # this will include new lines to allow paragraphs
   Improving and learning new skills by following the latest technological trends is one of my constant concern. 
   Over the years, the various mandates I worked on have enabled me to reveal my skills in the realization of innovative quality solutions.
   
-  I am most skilled in: <mark>Java</mark> <mark>Jave EE</mark> <mark>Angular</mark> <mark>Apache Camel</mark> <mark>Spring</mark> <mark>Hibernate</mark> <mark>Docker</mark>
+  I am most skilled in:     <mark>Java</mark> <mark>Jave EE</mark> <mark>Angular</mark> <mark>Apache Camel</mark> <mark>Spring</mark> <mark>Hibernate</mark> <mark>Docker</mark>
+  Currently looking at:     <mark>Kubernetes</mark> <mark>Service Mesh</mark> <mark>[Quarkus](https://quarkus.io)</mark>
+  Also know legacy stuff:   <mark>AS/400</mark> <mark>RPG/ILE</mark> <mark> EDI/Integration </mark>
 
 # Projects Section
 # projects_title: ojects
@@ -43,16 +45,16 @@ about_content: | # this will include new lines to allow paragraphs
 experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+education_title: Educations and Specializations
 
 # More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+# more_title: Others
+# more_content: | # this will include new lines to allow paragraphs
+#  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#   - Rock climbing
+#   - Gaming
+#   - Knitting
+#   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
